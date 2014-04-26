@@ -3,8 +3,9 @@ the excellent [Cosa][1] project, with all sorts of buttons, servos, timers, sens
 written in well-documented, object-oriented code.
 
 ----
-ver 0.1, 2014 April 26
-----
+
+**ver 0.1, 2014 April 26**
+
 
 The latest source code for this project is maintained on [GitHub][2].
 
@@ -19,7 +20,7 @@ There are a few useful examples in the "examples" folder.
 For questions and reporting bugs, and to contact Evan check out [pixelist.info][5].
 
 [1]: http://cosa-arduino.blogspot.se
-[2]: https://github.com/pixelist/evlib
-[3]: https://github.com/pixelist/evlib/zipball/master
-[4]: https://github.com/pixelist/evlib/tarball/master
+[2]: https://github.com/pixelpusher/evlib
+[3]: https://github.com/pixelpusher/evlib/zipball/master
+[4]: https://github.com/pixelpusher/evlib/tarball/master
 [5]: http://pixelist.info

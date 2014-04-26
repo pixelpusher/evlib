@@ -1,0 +1,65 @@
+#######################################
+# Syntax Coloring Map for evlib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+FastButton	KEYWORD1
+OnOffButton	KEYWORD1
+OneshotButton	KEYWORD1
+ControlAction	KEYWORD1
+OneShotServoController	KEYWORD1
+Oneshot	KEYWORD1
+Blinker	KEYWORD1
+OutputPin	KEYWORD1
+InputPin	KEYWORD1
+Head	KEYWORD1
+Periodic	KEYWORD1
+Button	KEYWORD1
+Servo	KEYWORD1
+Watchdog	KEYWORD1
+Trace	KEYWORD1
+uint8_t	KEYWORD1
+uint16_t	KEYWORD1
+uint32_t	KEYWORD1
+Scheduler	KEYWORD1
+Board		KEYWORD1
+RTC		KEYWORD1
+Event		KEYWORD1
+
+#######################################
+# Methods and functions (KEYWORD2)
+#######################################
+.startAngle	KEYWORD2
+.endAngle	KEYWORD2
+.duration	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+D1	LITERAL1
+D2	LITERAL1
+D3	LITERAL1
+D4	LITERAL1
+D5	LITERAL1
+D6	LITERAL1
+D7	LITERAL1
+D8	LITERAL1
+D9	LITERAL1
+D10	LITERAL1
+D11	LITERAL1
+D12	LITERAL1
+D13	LITERAL1
+LED	LITERAL1
+
+#######################################
+# Macros (LITERAL2)
+#######################################
+PSTR	LITERAL1
+
+
+#######################################
+# Variables (LITERAL2)
+#######################################
+#ex: rf12_buf	LITERAL2
